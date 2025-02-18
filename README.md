@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Najmudeen</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer</h3>    
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najmu-ak&label=Profile%20views&color=0e75b6&style=flat" alt="najmu-ak" /> </p>
@@ -23,7 +23,8 @@
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- 
+ <a href="https://playwright.dev/docs/intro" target="_blank" rel="noreferrer"> 
+<img src="/img/playwright-logo.svg" alt="Playwright logo" class="themedComponent_mlkZ themedComponent--dark_xIcU">width="40" height="40"/> </a>
   
   </p>
 
