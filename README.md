@@ -24,7 +24,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://playwright.dev/docs/intro" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/microsoft/playwright/blob/2f6148bcd1a96ec687d55ce08645fc6315b1514e/packages/recorder/public/playwright-logo.svg" alt="Playwright" width="40" height="40"/> </a>
+<img src="https://github.com/microsoft/playwright/blob/2f6148bcd1a96ec687d55ce08645fc6315b1514e/packages/recorder/public/playwright-logo.svg" alt="Playwright" width="50" height="50"/> </a>
 
   </p>
 
