@@ -19,9 +19,11 @@
   </a>
 </p>
 
+<p align="right">
 <a href="https://github.com/najmu-ak/najmu-ak/blob/main/Mohamed-Ali-Najmudeen_Resume.pdf" target="_blank">
   <img src="https://img.icons8.com/plasticine/100/resume.png" alt="Resume" width="40" height="40"/>
 </a>
+</p>
 ---
 
 ### 🛠️ Languages and Tools
