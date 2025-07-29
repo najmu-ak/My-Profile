@@ -21,7 +21,7 @@
 
 ### 📝 My Resume
 
-[Download Resume](https://github.com/najmu-ak/najmu-ak/blob/main/Mohamed-Ali-Najmudeen_Resume.pdf)
+[Download Resume](https://github.com/najmu-ak/najmu-ak/blob/main/Mohamed-Ali-Najmudeen-Resume.pdf)
 
 
 
